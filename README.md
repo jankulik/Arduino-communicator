@@ -28,7 +28,7 @@ To create this device you will need:
 |SDA|SDA|
 
 #### Keypad connection
-|Arduino Pin|Keypad Pin (from left)|
+|Arduino Pin|Keypad Pin (from the left)|
 |:-:|:-:|
 |9|1|
 |8|2|
