@@ -1,7 +1,7 @@
 # Arduino-communicator
 Short-wave text communicator based on Arduino and nRF24L01.
 
-To create this device you will need:
+In order to create this device you will need:
 - 2x Arduino (any board)
 - 2x nRF24L01
 - 2x OLED display 128x64px I2C
